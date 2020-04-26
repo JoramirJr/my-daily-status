@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-    <img alt="logo" src=".github/0.png" width="100%" />
+    <img alt="logo" src=".github/0.jpeg" width="100%" />
 </p>
 
 <p align="center">
-    <img alt="logo" src=".github/0(1).png" width="100%" />
+    <img alt="logo" src=".github/0(1).jpeg" width="100%" />
 </p>
 
 <p align="center">
-    <img alt="logo" src=".github/0(2).png" width="100%" />
+    <img alt="logo" src=".github/0(2).jpeg" width="100%" />
 </p>
