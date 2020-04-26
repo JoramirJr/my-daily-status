@@ -19,14 +19,12 @@
     #tailwindcss #auth0 #firebase #zeit #fullstacklab #devpleno
 </p>
 
-<p align="center">
+<section align="center">
     <img alt="logo" src=".github/0.jpeg" width="50%" />
-</p>
-5
-<p align="center">
+<section>
+<section align="center">
     <img alt="logo" src=".github/0(1).jpeg" width="50%" />
-</p>
-
-<p align="center">
+<section>
+<section align="center">
     <img alt="logo" src=".github/0(2).jpeg" width="50%" />
-</p>
+<section>
