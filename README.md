@@ -14,9 +14,7 @@
     - Auth0 Authentication
     - Firebase Database
     - Zeit
-
-    #javascript #js #fullstack #nodejs #reactjs #nextjs
-    #tailwindcss #auth0 #firebase #zeit #fullstacklab #devpleno
+    
 </p>
 
 <p align="center">
